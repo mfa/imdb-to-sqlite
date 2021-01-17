@@ -1,5 +1,7 @@
 ## IMDB ratings to sqlite
 
+![Tests](https://github.com/mfa/imdb-to-sqlite/workflows/Tests/badge.svg)
+
 ## About
 
 Convert the IMDB ratings CSV file into a sqlite database for easy usage with [Datasette](https://github.com/simonw/datasette).
