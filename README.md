@@ -9,7 +9,7 @@ Convert the IMDB ratings CSV file into a sqlite database for easy usage with [Da
 
 ## Why?
 
-What does this converter different than [csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite)?
+What does this converter do differently than [csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite)?
 
 - `genre` and `directors` are array fields
 - additional fields for faceting: `year_rated`, `weekday_rated`
